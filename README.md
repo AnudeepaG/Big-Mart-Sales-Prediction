@@ -1,1 +1,3 @@
 # Big-Mart-Sales-Prediction
+
+Developed a high-impact Big Mart Sales Prediction system using various machine learning techniques, including linear regression, XGBOOST, decision trees, random forest regression, KNN, AdaBoost regressors, and Gradient Boosting regressors. Evaluated the model's performance using key metrics such as R2, mean squared error, absolute error, and accuracy scores. It showcases proficiency in machine learning, featuring advanced practices like feature engineering, selection, and transformation. It was trained and tested using a Kaggle dataset, achieving an impressive 85–90 \% accuracy rate.
